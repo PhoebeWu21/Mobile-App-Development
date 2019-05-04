@@ -22,3 +22,5 @@ Due to the increasing market share of the smartphone nowadays, mobile apps play 
 - Decision Tree 
 - Logistic Regression 
 2. Natural Language Processing 
+- App Reviews
+- App Descriptions 
